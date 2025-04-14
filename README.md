@@ -1,12 +1,4 @@
-```
-   ____            _        _   _      _            
-  |  _ \ _ __   __| | ___  | \ | | ___| |_ ___ _ __ 
-  | |_) | '_ \ / _` |/ __| |  \| |/ _ \ __/ _ \ '__|
-  |  __/| | | | (_| | (__  | |\  |  __/ ||  __/ |   
-  |_|   |_| |_|__,_|_|\__| |_| \_|____|\___\___||   
-```
-
-# PrankNet AudioTroll 🎶😈
+# PrankNet AudioTroll 😈
 
 ![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
