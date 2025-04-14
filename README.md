@@ -1,6 +1,6 @@
 # PrankNet AudioTroll 😈
 
-![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+![Version](https://img.shields.io/badge/Version-0.0.1b-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 **PrankNet AudioTroll** — шуточный проект для изучения сетей через розыгрыши! Загружай звуки, тролль локалку и следи за хаосом через логи — всё в стильном GUI! 🚀
 
